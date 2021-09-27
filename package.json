@@ -1,0 +1,29 @@
+{
+  "name": "dependency-injection",
+  "version": "1.0.0",
+  "description": "dependency injection module",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Oleksandr Sydorenko",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-sydorenko/dependency-injection.git"
+  },
+  "homepage": "https://github.com/a-sydorenko/dependency-injection#readme",
+  "bugs": {
+    "url": "https://github.com/a-sydorenko/dependency-injection/issues"
+  },
+  "dependencies": {
+    "nanoid": "^3.1.28"
+  }
+}
